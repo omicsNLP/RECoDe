@@ -1,0 +1,36 @@
+[project]
+name = "recode"
+version = "1.0.0"
+description = "A Python project for RECoDe."
+authors = [
+    { name = "Donghee Choi", email = "donghee.choi@imperial.ac.uk" },
+    { name = "Joram M. Posma", email = "j.posma11@imperial.ac.uk" },
+]
+readme = "README.md"
+requires-python = ">=3.9"
+keywords = []
+
+dependencies = [
+    "pandas",
+    "numpy",
+    "nltk",
+    "lxml",
+    "openai==1.61.0",
+    "transformers",
+    "torch",
+    "scikit-learn",
+    "editdistance",
+    "networkx",
+    "tqdm",
+    "regex",
+]
+
+[build-system]
+requires = [
+    "setuptools>=61.0"
+]
+build-backend = "setuptools.build_meta"
+
+[tool.setuptools]
+packages = ["recode"]
+package-dir = {"" = "src"}

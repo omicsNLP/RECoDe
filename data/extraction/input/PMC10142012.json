@@ -1,0 +1,1010 @@
+{
+  "source": "Auto-CORPus (XML)",
+  "date": "20251015",
+  "key": "autocorpus_fulltext.key",
+  "infons": {
+    "pmcid": "PMC10142012",
+    "pmid": "37111078",
+    "doi": "10.3390/nu15081859",
+    "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10142012/",
+    "journal": "Nutrients",
+    "pub_type": "Article",
+    "year": "2023",
+    "license": "Licensee MDPI, Basel, Switzerland. This article is an open access article distributed under the terms and conditions of the Creative Commons Attribution (CC BY) license (https://creativecommons.org/licenses/by/4.0/)."
+  },
+  "documents": [
+    {
+      "id": "PMC10142012",
+      "infons": {},
+      "passages": [
+        {
+          "offset": 0,
+          "infons": {
+            "section_title_1": "document title",
+            "iao_name_1": "document title",
+            "iao_id_1": "IAO:0000305"
+          },
+          "text": "Combination of Lactobacillus plantarum HAC03 and Garcinia cambogia Has a Significant Anti-Obesity Effect in Diet-Induced Obesity Mice",
+          "sentences": [],
+          "annotations": [
+            {
+              "id": "1",
+              "infons": {
+                "type": "microbiome",
+                "identifier": "lactobacillus_plantarum",
+                "annotator": "Electrum@codiet.eu",
+                "updated_at": "2025-01-01T00:00:00Z"
+              },
+              "text": "Lactobacillus plantarum",
+              "locations": [
+                {
+                  "offset": 15,
+                  "length": 23
+                }
+              ]
+            },
+            {
+              "id": "2",
+              "infons": {
+                "type": "modelOrganism",
+                "identifier": "garcinia_cambogia",
+                "annotator": "Electrum@codiet.eu",
+                "updated_at": "2025-01-01T00:00:00Z"
+              },
+              "text": "Garcinia cambogia",
+              "locations": [
+                {
+                  "offset": 49,
+                  "length": 17
+                }
+              ]
+            },
+            {
+              "id": "3",
+              "infons": {
+                "type": "diseasePhenotype",
+                "identifier": "obesity_effect",
+                "annotator": "Electrum@codiet.eu",
+                "updated_at": "2025-01-01T00:00:00Z"
+              },
+              "text": "Obesity Effect",
+              "locations": [
+                {
+                  "offset": 90,
+                  "length": 14
+                }
+              ]
+            },
+            {
+              "id": "4",
+              "infons": {
+                "type": "foodRelated",
+                "identifier": "diet-induced",
+                "annotator": "Electrum@codiet.eu",
+                "updated_at": "2025-01-01T00:00:00Z"
+              },
+              "text": "Diet-Induced",
+              "locations": [
+                {
+                  "offset": 108,
+                  "length": 12
+                }
+              ]
+            },
+            {
+              "id": "5",
+              "infons": {
+                "type": "diseasePhenotype",
+                "identifier": "obesity",
+                "annotator": "Electrum@codiet.eu",
+                "updated_at": "2025-01-01T00:00:00Z"
+              },
+              "text": "Obesity",
+              "locations": [
+                {
+                  "offset": 121,
+                  "length": 7
+                }
+              ]
+            },
+            {
+              "id": "6",
+              "infons": {
+                "type": "modelOrganism",
+                "identifier": "mice",
+                "annotator": "Electrum@codiet.eu",
+                "updated_at": "2025-01-01T00:00:00Z"
+              },
+              "text": "Mice",
+              "locations": [
+                {
+                  "offset": 129,
+                  "length": 4
+                }
+              ]
+            }
+          ],
+          "relations": []
+        },
+        {
+          "offset": 231,
+          "infons": {
+            "section_title_1": "Abstract",
+            "iao_name_1": "textual abstract section",
+            "iao_id_1": "IAO:0000315"
+          },
+          "text": "Obesity is a major global health problem which is associated with various diseases and psychological conditions. Increasing understanding of the relationship between obesity and gut microbiota has led to a worldwide effort to use microbiota as a treatment for obesity. However, several clinical trials have shown that obesity treatment with single strains of probiotics did not achieve as significant results as in animal studies. To overcome this limitation, we attempted to find a new combination that goes beyond the effects of probiotics alone by combining probiotics and a natural substance that has a stronger anti-obesity effect. In this study, we used a diet-induced obesity mouse (DIO) model to investigate the effects of combining Lactobacillus plantarum HAC03 with Garcinia cambogia extract, as compared to the effects of each substance alone. Combining L. plantarum HAC03 and G. cambogia, treatment showed a more than two-fold reduction in weight gain compared to each substance administered alone. Even though the total amount administered was kept the same as for other single experiments, the combination treatment significantly reduced biochemical markers of obesity and adipocyte size, in comparison to the treatment with either substance alone. The treatment with a combination of two substances also significantly decreased the gene expression of fatty acid synthesis (FAS, ACC, PPAR and SREBP1c) in mesenteric adipose tissue (MAT). Furthermore, 16S rRNA gene sequencing of the fecal microbiota suggested that the combination of L. plantarum HAC03 and G. cambogia extract treatment changed the diversity of gut microbiota and altered specific bacterial taxa at the genus level (the Eubacterium coprostanoligenes group and Lachnospiraceae UCG group) and specific functions (NAD salvage pathway I and starch degradation V). Our results support that the idea that the combination of L. plantarum HAC03 and G. cambogia extract has a synergistic anti-obesity effect by restoring the composition of the gut microbiota. This combination also increases the abundance of bacteria responsible for energy metabolism, as well as the production of SCFAs and BCAAs. Furthermore, no significant adverse effects were observed during the experiment.",
+          "sentences": [],
+          "annotations": [
+            {
+              "id": "13",
+              "infons": {
+                "type": "diseasePhenotype",
+                "identifier": "health",
+                "annotator": "Electrum@codiet.eu",
+                "updated_at": "2025-01-01T00:00:00Z"
+              },
+              "text": "health",
+              "locations": [
+                {
+                  "offset": 257,
+                  "length": 6
+                }
+              ]
+            },
+            {
+              "id": "14",
+              "infons": {
+                "type": "diseasePhenotype",
+                "identifier": "diseases",
+                "annotator": "Electrum@codiet.eu",
+                "updated_at": "2025-01-01T00:00:00Z"
+              },
+              "text": "diseases",
+              "locations": [
+                {
+                  "offset": 305,
+                  "length": 8
+                }
+              ]
+            },
+            {
+              "id": "15",
+              "infons": {
+                "type": "diseasePhenotype",
+                "identifier": "obesity",
+                "annotator": "Electrum@codiet.eu",
+                "updated_at": "2025-01-01T00:00:00Z"
+              },
+              "text": "obesity",
+              "locations": [
+                {
+                  "offset": 397,
+                  "length": 7
+                }
+              ]
+            },
+            {
+              "id": "16",
+              "infons": {
+                "type": "sampleType",
+                "identifier": "gut",
+                "annotator": "Electrum@codiet.eu",
+                "updated_at": "2025-01-01T00:00:00Z"
+              },
+              "text": "gut",
+              "locations": [
+                {
+                  "offset": 409,
+                  "length": 3
+                }
+              ]
+            },
+            {
+              "id": "17",
+              "infons": {
+                "type": "microbiome",
+                "identifier": "microbiota",
+                "annotator": "Electrum@codiet.eu",
+                "updated_at": "2025-01-01T00:00:00Z"
+              },
+              "text": "microbiota",
+              "locations": [
+                {
+                  "offset": 413,
+                  "length": 10
+                }
+              ]
+            },
+            {
+              "id": "18",
+              "infons": {
+                "type": "microbiome",
+                "identifier": "microbiota",
+                "annotator": "Electrum@codiet.eu",
+                "updated_at": "2025-01-01T00:00:00Z"
+              },
+              "text": "microbiota",
+              "locations": [
+                {
+                  "offset": 461,
+                  "length": 10
+                }
+              ]
+            },
+            {
+              "id": "19",
+              "infons": {
+                "type": "diseasePhenotype",
+                "identifier": "obesity",
+                "annotator": "Electrum@codiet.eu",
+                "updated_at": "2025-01-01T00:00:00Z"
+              },
+              "text": "obesity",
+              "locations": [
+                {
+                  "offset": 491,
+                  "length": 7
+                }
+              ]
+            },
+            {
+              "id": "20",
+              "infons": {
+                "type": "methodology",
+                "identifier": "clinical_trials",
+                "annotator": "Electrum@codiet.eu",
+                "updated_at": "2025-01-01T00:00:00Z"
+              },
+              "text": "clinical trials",
+              "locations": [
+                {
+                  "offset": 517,
+                  "length": 15
+                }
+              ]
+            },
+            {
+              "id": "21",
+              "infons": {
+                "type": "diseasePhenotype",
+                "identifier": "obesity",
+                "annotator": "Electrum@codiet.eu",
+                "updated_at": "2025-01-01T00:00:00Z"
+              },
+              "text": "obesity",
+              "locations": [
+                {
+                  "offset": 549,
+                  "length": 7
+                }
+              ]
+            },
+            {
+              "id": "22",
+              "infons": {
+                "type": "foodRelated",
+                "identifier": "probiotics",
+                "annotator": "Electrum@codiet.eu",
+                "updated_at": "2025-01-01T00:00:00Z"
+              },
+              "text": "probiotics",
+              "locations": [
+                {
+                  "offset": 590,
+                  "length": 10
+                }
+              ]
+            },
+            {
+              "id": "23",
+              "infons": {
+                "type": "methodology",
+                "identifier": "animal_studies",
+                "annotator": "Electrum@codiet.eu",
+                "updated_at": "2025-01-01T00:00:00Z"
+              },
+              "text": "animal studies",
+              "locations": [
+                {
+                  "offset": 646,
+                  "length": 14
+                }
+              ]
+            },
+            {
+              "id": "24",
+              "infons": {
+                "type": "foodRelated",
+                "identifier": "probiotics",
+                "annotator": "Electrum@codiet.eu",
+                "updated_at": "2025-01-01T00:00:00Z"
+              },
+              "text": "probiotics",
+              "locations": [
+                {
+                  "offset": 762,
+                  "length": 10
+                }
+              ]
+            },
+            {
+              "id": "25",
+              "infons": {
+                "type": "foodRelated",
+                "identifier": "probiotics",
+                "annotator": "Electrum@codiet.eu",
+                "updated_at": "2025-01-01T00:00:00Z"
+              },
+              "text": "probiotics",
+              "locations": [
+                {
+                  "offset": 792,
+                  "length": 10
+                }
+              ]
+            },
+            {
+              "id": "26",
+              "infons": {
+                "type": "diseasePhenotype",
+                "identifier": "obesity_effect",
+                "annotator": "Electrum@codiet.eu",
+                "updated_at": "2025-01-01T00:00:00Z"
+              },
+              "text": "obesity effect",
+              "locations": [
+                {
+                  "offset": 852,
+                  "length": 14
+                }
+              ]
+            },
+            {
+              "id": "27",
+              "infons": {
+                "type": "foodRelated",
+                "identifier": "diet-induced",
+                "annotator": "Electrum@codiet.eu",
+                "updated_at": "2025-01-01T00:00:00Z"
+              },
+              "text": "diet-induced",
+              "locations": [
+                {
+                  "offset": 893,
+                  "length": 12
+                }
+              ]
+            },
+            {
+              "id": "28",
+              "infons": {
+                "type": "diseasePhenotype",
+                "identifier": "obesity",
+                "annotator": "Electrum@codiet.eu",
+                "updated_at": "2025-01-01T00:00:00Z"
+              },
+              "text": "obesity",
+              "locations": [
+                {
+                  "offset": 906,
+                  "length": 7
+                }
+              ]
+            },
+            {
+              "id": "29",
+              "infons": {
+                "type": "modelOrganism",
+                "identifier": "mouse",
+                "annotator": "Electrum@codiet.eu",
+                "updated_at": "2025-01-01T00:00:00Z"
+              },
+              "text": "mouse",
+              "locations": [
+                {
+                  "offset": 914,
+                  "length": 5
+                }
+              ]
+            },
+            {
+              "id": "30",
+              "infons": {
+                "type": "modelOrganism",
+                "identifier": "dio",
+                "annotator": "Electrum@codiet.eu",
+                "updated_at": "2025-01-01T00:00:00Z"
+              },
+              "text": "DIO",
+              "locations": [
+                {
+                  "offset": 921,
+                  "length": 3
+                }
+              ]
+            },
+            {
+              "id": "31",
+              "infons": {
+                "type": "microbiome",
+                "identifier": "lactobacillus_plantarum",
+                "annotator": "Electrum@codiet.eu",
+                "updated_at": "2025-01-01T00:00:00Z"
+              },
+              "text": "Lactobacillus plantarum",
+              "locations": [
+                {
+                  "offset": 972,
+                  "length": 23
+                }
+              ]
+            },
+            {
+              "id": "32",
+              "infons": {
+                "type": "modelOrganism",
+                "identifier": "garcinia_cambogia",
+                "annotator": "Electrum@codiet.eu",
+                "updated_at": "2025-01-01T00:00:00Z"
+              },
+              "text": "Garcinia cambogia",
+              "locations": [
+                {
+                  "offset": 1007,
+                  "length": 17
+                }
+              ]
+            },
+            {
+              "id": "33",
+              "infons": {
+                "type": "microbiome",
+                "identifier": "l._plantarum",
+                "annotator": "Electrum@codiet.eu",
+                "updated_at": "2025-01-01T00:00:00Z"
+              },
+              "text": "L. plantarum",
+              "locations": [
+                {
+                  "offset": 1096,
+                  "length": 12
+                }
+              ]
+            },
+            {
+              "id": "34",
+              "infons": {
+                "type": "modelOrganism",
+                "identifier": "g._cambogia",
+                "annotator": "Electrum@codiet.eu",
+                "updated_at": "2025-01-01T00:00:00Z"
+              },
+              "text": "G. cambogia",
+              "locations": [
+                {
+                  "offset": 1119,
+                  "length": 11
+                }
+              ]
+            },
+            {
+              "id": "35",
+              "infons": {
+                "type": "diseasePhenotype",
+                "identifier": "weight_gain",
+                "annotator": "Electrum@codiet.eu",
+                "updated_at": "2025-01-01T00:00:00Z"
+              },
+              "text": "weight gain",
+              "locations": [
+                {
+                  "offset": 1183,
+                  "length": 11
+                }
+              ]
+            },
+            {
+              "id": "36",
+              "infons": {
+                "type": "dataType",
+                "identifier": "biochemical_markers",
+                "annotator": "Electrum@codiet.eu",
+                "updated_at": "2025-01-01T00:00:00Z"
+              },
+              "text": "biochemical markers",
+              "locations": [
+                {
+                  "offset": 1383,
+                  "length": 19
+                }
+              ]
+            },
+            {
+              "id": "37",
+              "infons": {
+                "type": "diseasePhenotype",
+                "identifier": "obesity",
+                "annotator": "Electrum@codiet.eu",
+                "updated_at": "2025-01-01T00:00:00Z"
+              },
+              "text": "obesity",
+              "locations": [
+                {
+                  "offset": 1406,
+                  "length": 7
+                }
+              ]
+            },
+            {
+              "id": "38",
+              "infons": {
+                "type": "sampleType",
+                "identifier": "adipocyte",
+                "annotator": "Electrum@codiet.eu",
+                "updated_at": "2025-01-01T00:00:00Z"
+              },
+              "text": "adipocyte",
+              "locations": [
+                {
+                  "offset": 1418,
+                  "length": 9
+                }
+              ]
+            },
+            {
+              "id": "39",
+              "infons": {
+                "type": "dataType",
+                "identifier": "gene_expression",
+                "annotator": "Electrum@codiet.eu",
+                "updated_at": "2025-01-01T00:00:00Z"
+              },
+              "text": "gene expression",
+              "locations": [
+                {
+                  "offset": 1578,
+                  "length": 15
+                }
+              ]
+            },
+            {
+              "id": "40",
+              "infons": {
+                "type": "FOODRELATED_METABOLITE",
+                "identifier": "fatty_acid",
+                "annotator": "Electrum@codiet.eu",
+                "updated_at": "2025-01-01T00:00:00Z"
+              },
+              "text": "fatty acid",
+              "locations": [
+                {
+                  "offset": 1597,
+                  "length": 10
+                }
+              ]
+            },
+            {
+              "id": "41",
+              "infons": {
+                "type": "GENESNP_PROTEINENZYME",
+                "identifier": "fas",
+                "annotator": "Electrum@codiet.eu",
+                "updated_at": "2025-01-01T00:00:00Z"
+              },
+              "text": "FAS",
+              "locations": [
+                {
+                  "offset": 1619,
+                  "length": 3
+                }
+              ]
+            },
+            {
+              "id": "42",
+              "infons": {
+                "type": "DISEASEPHENOTYPE_GENESNP_PROTEINENZYME",
+                "identifier": "acc",
+                "annotator": "Electrum@codiet.eu",
+                "updated_at": "2025-01-01T00:00:00Z"
+              },
+              "text": "ACC",
+              "locations": [
+                {
+                  "offset": 1624,
+                  "length": 3
+                }
+              ]
+            },
+            {
+              "id": "43",
+              "infons": {
+                "type": "proteinEnzyme",
+                "identifier": "ppar",
+                "annotator": "Electrum@codiet.eu",
+                "updated_at": "2025-01-01T00:00:00Z"
+              },
+              "text": "PPAR",
+              "locations": [
+                {
+                  "offset": 1629,
+                  "length": 4
+                }
+              ]
+            },
+            {
+              "id": "44",
+              "infons": {
+                "type": "GENESNP_PROTEINENZYME",
+                "identifier": "srebp1c",
+                "annotator": "Electrum@codiet.eu",
+                "updated_at": "2025-01-01T00:00:00Z"
+              },
+              "text": "SREBP1c",
+              "locations": [
+                {
+                  "offset": 1638,
+                  "length": 7
+                }
+              ]
+            },
+            {
+              "id": "45",
+              "infons": {
+                "type": "sampleType",
+                "identifier": "mesenteric_adipose_tissue",
+                "annotator": "Electrum@codiet.eu",
+                "updated_at": "2025-01-01T00:00:00Z"
+              },
+              "text": "mesenteric adipose tissue",
+              "locations": [
+                {
+                  "offset": 1650,
+                  "length": 25
+                }
+              ]
+            },
+            {
+              "id": "46",
+              "infons": {
+                "type": "dataType",
+                "identifier": "16s_rrna_gene_sequencing",
+                "annotator": "Electrum@codiet.eu",
+                "updated_at": "2025-01-01T00:00:00Z"
+              },
+              "text": "16S rRNA gene sequencing",
+              "locations": [
+                {
+                  "offset": 1696,
+                  "length": 24
+                }
+              ]
+            },
+            {
+              "id": "47",
+              "infons": {
+                "type": "sampleType",
+                "identifier": "fecal",
+                "annotator": "Electrum@codiet.eu",
+                "updated_at": "2025-01-01T00:00:00Z"
+              },
+              "text": "fecal",
+              "locations": [
+                {
+                  "offset": 1728,
+                  "length": 5
+                }
+              ]
+            },
+            {
+              "id": "48",
+              "infons": {
+                "type": "microbiome",
+                "identifier": "microbiota",
+                "annotator": "Electrum@codiet.eu",
+                "updated_at": "2025-01-01T00:00:00Z"
+              },
+              "text": "microbiota",
+              "locations": [
+                {
+                  "offset": 1734,
+                  "length": 10
+                }
+              ]
+            },
+            {
+              "id": "49",
+              "infons": {
+                "type": "microbiome",
+                "identifier": "l._plantarum",
+                "annotator": "Electrum@codiet.eu",
+                "updated_at": "2025-01-01T00:00:00Z"
+              },
+              "text": "L. plantarum",
+              "locations": [
+                {
+                  "offset": 1779,
+                  "length": 12
+                }
+              ]
+            },
+            {
+              "id": "50",
+              "infons": {
+                "type": "modelOrganism",
+                "identifier": "g._cambogia",
+                "annotator": "Electrum@codiet.eu",
+                "updated_at": "2025-01-01T00:00:00Z"
+              },
+              "text": "G. cambogia",
+              "locations": [
+                {
+                  "offset": 1802,
+                  "length": 11
+                }
+              ]
+            },
+            {
+              "id": "51",
+              "infons": {
+                "type": "sampleType",
+                "identifier": "gut",
+                "annotator": "Electrum@codiet.eu",
+                "updated_at": "2025-01-01T00:00:00Z"
+              },
+              "text": "gut",
+              "locations": [
+                {
+                  "offset": 1857,
+                  "length": 3
+                }
+              ]
+            },
+            {
+              "id": "52",
+              "infons": {
+                "type": "microbiome",
+                "identifier": "microbiota",
+                "annotator": "Electrum@codiet.eu",
+                "updated_at": "2025-01-01T00:00:00Z"
+              },
+              "text": "microbiota",
+              "locations": [
+                {
+                  "offset": 1861,
+                  "length": 10
+                }
+              ]
+            },
+            {
+              "id": "53",
+              "infons": {
+                "type": "microbiome",
+                "identifier": "bacterial",
+                "annotator": "Electrum@codiet.eu",
+                "updated_at": "2025-01-01T00:00:00Z"
+              },
+              "text": "bacterial",
+              "locations": [
+                {
+                  "offset": 1893,
+                  "length": 9
+                }
+              ]
+            },
+            {
+              "id": "54",
+              "infons": {
+                "type": "microbiome",
+                "identifier": "eubacterium_coprostanoligenes",
+                "annotator": "Electrum@codiet.eu",
+                "updated_at": "2025-01-01T00:00:00Z"
+              },
+              "text": "Eubacterium coprostanoligenes",
+              "locations": [
+                {
+                  "offset": 1932,
+                  "length": 29
+                }
+              ]
+            },
+            {
+              "id": "55",
+              "infons": {
+                "type": "microbiome",
+                "identifier": "lachnospiraceae",
+                "annotator": "Electrum@codiet.eu",
+                "updated_at": "2025-01-01T00:00:00Z"
+              },
+              "text": "Lachnospiraceae",
+              "locations": [
+                {
+                  "offset": 1972,
+                  "length": 15
+                }
+              ]
+            },
+            {
+              "id": "56",
+              "infons": {
+                "type": "metabolite",
+                "identifier": "nad",
+                "annotator": "Electrum@codiet.eu",
+                "updated_at": "2025-01-01T00:00:00Z"
+              },
+              "text": "NAD",
+              "locations": [
+                {
+                  "offset": 2023,
+                  "length": 3
+                }
+              ]
+            },
+            {
+              "id": "57",
+              "infons": {
+                "type": "foodRelated",
+                "identifier": "starch",
+                "annotator": "Electrum@codiet.eu",
+                "updated_at": "2025-01-01T00:00:00Z"
+              },
+              "text": "starch",
+              "locations": [
+                {
+                  "offset": 2049,
+                  "length": 6
+                }
+              ]
+            },
+            {
+              "id": "58",
+              "infons": {
+                "type": "microbiome",
+                "identifier": "l._plantarum",
+                "annotator": "Electrum@codiet.eu",
+                "updated_at": "2025-01-01T00:00:00Z"
+              },
+              "text": "L. plantarum",
+              "locations": [
+                {
+                  "offset": 2130,
+                  "length": 12
+                }
+              ]
+            },
+            {
+              "id": "59",
+              "infons": {
+                "type": "modelOrganism",
+                "identifier": "g._cambogia",
+                "annotator": "Electrum@codiet.eu",
+                "updated_at": "2025-01-01T00:00:00Z"
+              },
+              "text": "G. cambogia",
+              "locations": [
+                {
+                  "offset": 2153,
+                  "length": 11
+                }
+              ]
+            },
+            {
+              "id": "60",
+              "infons": {
+                "type": "diseasePhenotype",
+                "identifier": "obesity_effect",
+                "annotator": "Electrum@codiet.eu",
+                "updated_at": "2025-01-01T00:00:00Z"
+              },
+              "text": "obesity effect",
+              "locations": [
+                {
+                  "offset": 2196,
+                  "length": 14
+                }
+              ]
+            },
+            {
+              "id": "61",
+              "infons": {
+                "type": "sampleType",
+                "identifier": "gut",
+                "annotator": "Electrum@codiet.eu",
+                "updated_at": "2025-01-01T00:00:00Z"
+              },
+              "text": "gut",
+              "locations": [
+                {
+                  "offset": 2247,
+                  "length": 3
+                }
+              ]
+            },
+            {
+              "id": "62",
+              "infons": {
+                "type": "microbiome",
+                "identifier": "microbiota",
+                "annotator": "Electrum@codiet.eu",
+                "updated_at": "2025-01-01T00:00:00Z"
+              },
+              "text": "microbiota",
+              "locations": [
+                {
+                  "offset": 2251,
+                  "length": 10
+                }
+              ]
+            },
+            {
+              "id": "63",
+              "infons": {
+                "type": "microbiome",
+                "identifier": "bacteria",
+                "annotator": "Electrum@codiet.eu",
+                "updated_at": "2025-01-01T00:00:00Z"
+              },
+              "text": "bacteria",
+              "locations": [
+                {
+                  "offset": 2312,
+                  "length": 8
+                }
+              ]
+            },
+            {
+              "id": "64",
+              "infons": {
+                "type": "foodRelated",
+                "identifier": "energy",
+                "annotator": "Electrum@codiet.eu",
+                "updated_at": "2025-01-01T00:00:00Z"
+              },
+              "text": "energy",
+              "locations": [
+                {
+                  "offset": 2337,
+                  "length": 6
+                }
+              ]
+            },
+            {
+              "id": "65",
+              "infons": {
+                "type": "FOODRELATED_METABOLITE",
+                "identifier": "scfas",
+                "annotator": "Electrum@codiet.eu",
+                "updated_at": "2025-01-01T00:00:00Z"
+              },
+              "text": "SCFAs",
+              "locations": [
+                {
+                  "offset": 2385,
+                  "length": 5
+                }
+              ]
+            },
+            {
+              "id": "66",
+              "infons": {
+                "type": "FOODRELATED_METABOLITE",
+                "identifier": "bcaas",
+                "annotator": "Electrum@codiet.eu",
+                "updated_at": "2025-01-01T00:00:00Z"
+              },
+              "text": "BCAAs",
+              "locations": [
+                {
+                  "offset": 2395,
+                  "length": 5
+                }
+              ]
+            }
+          ],
+          "relations": []
+        }
+      ],
+      "relations": []
+    }
+  ]
+}

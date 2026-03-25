@@ -1,0 +1,1010 @@
+{
+  "source": "Auto-CORPus (XML)",
+  "date": "20251015",
+  "key": "autocorpus_fulltext.key",
+  "infons": {
+    "pmcid": "PMC10576543",
+    "pmid": "36882217",
+    "doi": "10.1093/jmcb/mjad016",
+    "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10576543/",
+    "journal": "Journal of Molecular Cell Biology",
+    "pub_type": "Article",
+    "year": "2023",
+    "license": "This is an Open Access article distributed under the terms of the Creative Commons Attribution License (https://creativecommons.org/licenses/by/4.0/), which per- mits unrestricted reuse, distribution, and reproduction in any medium, provided the original work is properly cited."
+  },
+  "documents": [
+    {
+      "id": "PMC10576543",
+      "infons": {},
+      "passages": [
+        {
+          "offset": 0,
+          "infons": {
+            "section_title_1": "document title",
+            "iao_name_1": "document title",
+            "iao_id_1": "IAO:0000305"
+          },
+          "text": "An integrative profiling of metabolome and transcriptome in the plasma and skeletal muscle following an exercise intervention in diet-induced obese mice",
+          "sentences": [],
+          "annotations": [
+            {
+              "id": "1",
+              "infons": {
+                "type": "dataType",
+                "identifier": "metabolome",
+                "annotator": "Electrum@codiet.eu",
+                "updated_at": "2025-01-01T00:00:00Z"
+              },
+              "text": "metabolome",
+              "locations": [
+                {
+                  "offset": 28,
+                  "length": 10
+                }
+              ]
+            },
+            {
+              "id": "2",
+              "infons": {
+                "type": "dataType",
+                "identifier": "transcriptome",
+                "annotator": "Electrum@codiet.eu",
+                "updated_at": "2025-01-01T00:00:00Z"
+              },
+              "text": "transcriptome",
+              "locations": [
+                {
+                  "offset": 43,
+                  "length": 13
+                }
+              ]
+            },
+            {
+              "id": "3",
+              "infons": {
+                "type": "sampleType",
+                "identifier": "plasma",
+                "annotator": "Electrum@codiet.eu",
+                "updated_at": "2025-01-01T00:00:00Z"
+              },
+              "text": "plasma",
+              "locations": [
+                {
+                  "offset": 64,
+                  "length": 6
+                }
+              ]
+            },
+            {
+              "id": "4",
+              "infons": {
+                "type": "DISEASEPHENOTYPE_SAMPLETYPE",
+                "identifier": "skeletal_muscle",
+                "annotator": "Electrum@codiet.eu",
+                "updated_at": "2025-01-01T00:00:00Z"
+              },
+              "text": "skeletal muscle",
+              "locations": [
+                {
+                  "offset": 75,
+                  "length": 15
+                }
+              ]
+            },
+            {
+              "id": "5",
+              "infons": {
+                "type": "methodology",
+                "identifier": "exercise_intervention",
+                "annotator": "Electrum@codiet.eu",
+                "updated_at": "2025-01-01T00:00:00Z"
+              },
+              "text": "exercise intervention",
+              "locations": [
+                {
+                  "offset": 104,
+                  "length": 21
+                }
+              ]
+            },
+            {
+              "id": "6",
+              "infons": {
+                "type": "foodRelated",
+                "identifier": "diet-induced",
+                "annotator": "Electrum@codiet.eu",
+                "updated_at": "2025-01-01T00:00:00Z"
+              },
+              "text": "diet-induced",
+              "locations": [
+                {
+                  "offset": 129,
+                  "length": 12
+                }
+              ]
+            },
+            {
+              "id": "7",
+              "infons": {
+                "type": "diseasePhenotype",
+                "identifier": "obese",
+                "annotator": "Electrum@codiet.eu",
+                "updated_at": "2025-01-01T00:00:00Z"
+              },
+              "text": "obese",
+              "locations": [
+                {
+                  "offset": 142,
+                  "length": 5
+                }
+              ]
+            },
+            {
+              "id": "8",
+              "infons": {
+                "type": "modelOrganism",
+                "identifier": "mice",
+                "annotator": "Electrum@codiet.eu",
+                "updated_at": "2025-01-01T00:00:00Z"
+              },
+              "text": "mice",
+              "locations": [
+                {
+                  "offset": 148,
+                  "length": 4
+                }
+              ]
+            }
+          ],
+          "relations": []
+        },
+        {
+          "offset": 223,
+          "infons": {
+            "section_title_1": "Abstract",
+            "iao_name_1": "textual abstract section",
+            "iao_id_1": "IAO:0000315"
+          },
+          "text": "Exercise intervention at the early stage of type 2 diabetes mellitus (T2DM) can aid in the maintenance of blood glucose homeostasis and prevent the development of macrovascular and microvascular complications. However, the exercise-regulated pathways that prevent the development of T2DM remain largely unclear. In this study, two forms of exercise intervention, treadmill training and voluntary wheel running, were conducted for high-fat diet (HFD)-induced obese mice. We observed that both forms of exercise intervention alleviated HFD-induced insulin resistance and glucose intolerance. Skeletal muscle is recognized as the primary site for postprandial glucose uptake and for responsive alteration beyond exercise training. Metabolomic profiling of the plasma and skeletal muscle in Chow, HFD, and HFD-exercise groups revealed robust alterations in metabolic pathways by exercise intervention in both cases. Overlapping analysis identified nine metabolites, including beta-alanine, leucine, valine, and tryptophan, which were reversed by exercise treatment in both the plasma and skeletal muscle. Transcriptomic analysis of gene expression profiles in the skeletal muscle revealed several key pathways involved in the beneficial effects of exercise on metabolic homeostasis. In addition, integrative transcriptomic and metabolomic analyses uncovered strong correlations between the concentrations of bioactive metabolites and the expression levels of genes involved in energy metabolism, insulin sensitivity, and immune response in the skeletal muscle. This work established two models of exercise intervention in obese mice and provided mechanistic insights into the beneficial effects of exercise intervention on systemic energy homeostasis.",
+          "sentences": [],
+          "annotations": [
+            {
+              "id": "13",
+              "infons": {
+                "type": "methodology",
+                "identifier": "exercise_intervention",
+                "annotator": "Electrum@codiet.eu",
+                "updated_at": "2025-01-01T00:00:00Z"
+              },
+              "text": "Exercise intervention",
+              "locations": [
+                {
+                  "offset": 223,
+                  "length": 21
+                }
+              ]
+            },
+            {
+              "id": "14",
+              "infons": {
+                "type": "diseasePhenotype",
+                "identifier": "type_2_diabetes_mellitus",
+                "annotator": "Electrum@codiet.eu",
+                "updated_at": "2025-01-01T00:00:00Z"
+              },
+              "text": "type 2 diabetes mellitus",
+              "locations": [
+                {
+                  "offset": 267,
+                  "length": 24
+                }
+              ]
+            },
+            {
+              "id": "15",
+              "infons": {
+                "type": "diseasePhenotype",
+                "identifier": "t2dm",
+                "annotator": "Electrum@codiet.eu",
+                "updated_at": "2025-01-01T00:00:00Z"
+              },
+              "text": "T2DM",
+              "locations": [
+                {
+                  "offset": 293,
+                  "length": 4
+                }
+              ]
+            },
+            {
+              "id": "16",
+              "infons": {
+                "type": "FOODRELATED_SAMPLETYPE",
+                "identifier": "blood",
+                "annotator": "Electrum@codiet.eu",
+                "updated_at": "2025-01-01T00:00:00Z"
+              },
+              "text": "blood",
+              "locations": [
+                {
+                  "offset": 329,
+                  "length": 5
+                }
+              ]
+            },
+            {
+              "id": "17",
+              "infons": {
+                "type": "diseasePhenotype",
+                "identifier": "glucose_homeostasis",
+                "annotator": "Electrum@codiet.eu",
+                "updated_at": "2025-01-01T00:00:00Z"
+              },
+              "text": "glucose homeostasis",
+              "locations": [
+                {
+                  "offset": 335,
+                  "length": 19
+                }
+              ]
+            },
+            {
+              "id": "18",
+              "infons": {
+                "type": "diseasePhenotype",
+                "identifier": "macrovascular_and_microvascular_complications",
+                "annotator": "Electrum@codiet.eu",
+                "updated_at": "2025-01-01T00:00:00Z"
+              },
+              "text": "macrovascular and microvascular complications",
+              "locations": [
+                {
+                  "offset": 386,
+                  "length": 45
+                }
+              ]
+            },
+            {
+              "id": "19",
+              "infons": {
+                "type": "diseasePhenotype",
+                "identifier": "exercise",
+                "annotator": "Electrum@codiet.eu",
+                "updated_at": "2025-01-01T00:00:00Z"
+              },
+              "text": "exercise",
+              "locations": [
+                {
+                  "offset": 446,
+                  "length": 8
+                }
+              ]
+            },
+            {
+              "id": "20",
+              "infons": {
+                "type": "diseasePhenotype",
+                "identifier": "t2dm",
+                "annotator": "Electrum@codiet.eu",
+                "updated_at": "2025-01-01T00:00:00Z"
+              },
+              "text": "T2DM",
+              "locations": [
+                {
+                  "offset": 506,
+                  "length": 4
+                }
+              ]
+            },
+            {
+              "id": "21",
+              "infons": {
+                "type": "methodology",
+                "identifier": "exercise_intervention",
+                "annotator": "Electrum@codiet.eu",
+                "updated_at": "2025-01-01T00:00:00Z"
+              },
+              "text": "exercise intervention",
+              "locations": [
+                {
+                  "offset": 563,
+                  "length": 21
+                }
+              ]
+            },
+            {
+              "id": "22",
+              "infons": {
+                "type": "foodRelated",
+                "identifier": "high-fat_diet",
+                "annotator": "Electrum@codiet.eu",
+                "updated_at": "2025-01-01T00:00:00Z"
+              },
+              "text": "high-fat diet",
+              "locations": [
+                {
+                  "offset": 653,
+                  "length": 13
+                }
+              ]
+            },
+            {
+              "id": "23",
+              "infons": {
+                "type": "foodRelated",
+                "identifier": "hfd",
+                "annotator": "Electrum@codiet.eu",
+                "updated_at": "2025-01-01T00:00:00Z"
+              },
+              "text": "HFD",
+              "locations": [
+                {
+                  "offset": 668,
+                  "length": 3
+                }
+              ]
+            },
+            {
+              "id": "24",
+              "infons": {
+                "type": "diseasePhenotype",
+                "identifier": "obese",
+                "annotator": "Electrum@codiet.eu",
+                "updated_at": "2025-01-01T00:00:00Z"
+              },
+              "text": "obese",
+              "locations": [
+                {
+                  "offset": 681,
+                  "length": 5
+                }
+              ]
+            },
+            {
+              "id": "25",
+              "infons": {
+                "type": "modelOrganism",
+                "identifier": "mice",
+                "annotator": "Electrum@codiet.eu",
+                "updated_at": "2025-01-01T00:00:00Z"
+              },
+              "text": "mice",
+              "locations": [
+                {
+                  "offset": 687,
+                  "length": 4
+                }
+              ]
+            },
+            {
+              "id": "26",
+              "infons": {
+                "type": "methodology",
+                "identifier": "exercise_intervention",
+                "annotator": "Electrum@codiet.eu",
+                "updated_at": "2025-01-01T00:00:00Z"
+              },
+              "text": "exercise intervention",
+              "locations": [
+                {
+                  "offset": 724,
+                  "length": 21
+                }
+              ]
+            },
+            {
+              "id": "27",
+              "infons": {
+                "type": "foodRelated",
+                "identifier": "hfd",
+                "annotator": "Electrum@codiet.eu",
+                "updated_at": "2025-01-01T00:00:00Z"
+              },
+              "text": "HFD",
+              "locations": [
+                {
+                  "offset": 757,
+                  "length": 3
+                }
+              ]
+            },
+            {
+              "id": "28",
+              "infons": {
+                "type": "diseasePhenotype",
+                "identifier": "insulin_resistance",
+                "annotator": "Electrum@codiet.eu",
+                "updated_at": "2025-01-01T00:00:00Z"
+              },
+              "text": "insulin resistance",
+              "locations": [
+                {
+                  "offset": 769,
+                  "length": 18
+                }
+              ]
+            },
+            {
+              "id": "29",
+              "infons": {
+                "type": "diseasePhenotype",
+                "identifier": "glucose_intolerance",
+                "annotator": "Electrum@codiet.eu",
+                "updated_at": "2025-01-01T00:00:00Z"
+              },
+              "text": "glucose intolerance",
+              "locations": [
+                {
+                  "offset": 792,
+                  "length": 19
+                }
+              ]
+            },
+            {
+              "id": "30",
+              "infons": {
+                "type": "DISEASEPHENOTYPE_SAMPLETYPE",
+                "identifier": "skeletal_muscle",
+                "annotator": "Electrum@codiet.eu",
+                "updated_at": "2025-01-01T00:00:00Z"
+              },
+              "text": "Skeletal muscle",
+              "locations": [
+                {
+                  "offset": 813,
+                  "length": 15
+                }
+              ]
+            },
+            {
+              "id": "31",
+              "infons": {
+                "type": "sampleType",
+                "identifier": "postprandial",
+                "annotator": "Electrum@codiet.eu",
+                "updated_at": "2025-01-01T00:00:00Z"
+              },
+              "text": "postprandial",
+              "locations": [
+                {
+                  "offset": 867,
+                  "length": 12
+                }
+              ]
+            },
+            {
+              "id": "32",
+              "infons": {
+                "type": "metabolite",
+                "identifier": "glucose",
+                "annotator": "Electrum@codiet.eu",
+                "updated_at": "2025-01-01T00:00:00Z"
+              },
+              "text": "glucose",
+              "locations": [
+                {
+                  "offset": 880,
+                  "length": 7
+                }
+              ]
+            },
+            {
+              "id": "33",
+              "infons": {
+                "type": "diseasePhenotype",
+                "identifier": "exercise",
+                "annotator": "Electrum@codiet.eu",
+                "updated_at": "2025-01-01T00:00:00Z"
+              },
+              "text": "exercise",
+              "locations": [
+                {
+                  "offset": 932,
+                  "length": 8
+                }
+              ]
+            },
+            {
+              "id": "34",
+              "infons": {
+                "type": "dataType",
+                "identifier": "metabolomic_profiling",
+                "annotator": "Electrum@codiet.eu",
+                "updated_at": "2025-01-01T00:00:00Z"
+              },
+              "text": "Metabolomic profiling",
+              "locations": [
+                {
+                  "offset": 951,
+                  "length": 21
+                }
+              ]
+            },
+            {
+              "id": "35",
+              "infons": {
+                "type": "sampleType",
+                "identifier": "plasma",
+                "annotator": "Electrum@codiet.eu",
+                "updated_at": "2025-01-01T00:00:00Z"
+              },
+              "text": "plasma",
+              "locations": [
+                {
+                  "offset": 980,
+                  "length": 6
+                }
+              ]
+            },
+            {
+              "id": "36",
+              "infons": {
+                "type": "DISEASEPHENOTYPE_SAMPLETYPE",
+                "identifier": "skeletal_muscle",
+                "annotator": "Electrum@codiet.eu",
+                "updated_at": "2025-01-01T00:00:00Z"
+              },
+              "text": "skeletal muscle",
+              "locations": [
+                {
+                  "offset": 991,
+                  "length": 15
+                }
+              ]
+            },
+            {
+              "id": "37",
+              "infons": {
+                "type": "foodRelated",
+                "identifier": "chow",
+                "annotator": "Electrum@codiet.eu",
+                "updated_at": "2025-01-01T00:00:00Z"
+              },
+              "text": "Chow",
+              "locations": [
+                {
+                  "offset": 1010,
+                  "length": 4
+                }
+              ]
+            },
+            {
+              "id": "38",
+              "infons": {
+                "type": "foodRelated",
+                "identifier": "hfd",
+                "annotator": "Electrum@codiet.eu",
+                "updated_at": "2025-01-01T00:00:00Z"
+              },
+              "text": "HFD",
+              "locations": [
+                {
+                  "offset": 1016,
+                  "length": 3
+                }
+              ]
+            },
+            {
+              "id": "39",
+              "infons": {
+                "type": "foodRelated",
+                "identifier": "hfd",
+                "annotator": "Electrum@codiet.eu",
+                "updated_at": "2025-01-01T00:00:00Z"
+              },
+              "text": "HFD",
+              "locations": [
+                {
+                  "offset": 1025,
+                  "length": 3
+                }
+              ]
+            },
+            {
+              "id": "40",
+              "infons": {
+                "type": "diseasePhenotype",
+                "identifier": "exercise",
+                "annotator": "Electrum@codiet.eu",
+                "updated_at": "2025-01-01T00:00:00Z"
+              },
+              "text": "exercise",
+              "locations": [
+                {
+                  "offset": 1029,
+                  "length": 8
+                }
+              ]
+            },
+            {
+              "id": "41",
+              "infons": {
+                "type": "dataType",
+                "identifier": "metabolic_pathways",
+                "annotator": "Electrum@codiet.eu",
+                "updated_at": "2025-01-01T00:00:00Z"
+              },
+              "text": "metabolic pathways",
+              "locations": [
+                {
+                  "offset": 1076,
+                  "length": 18
+                }
+              ]
+            },
+            {
+              "id": "42",
+              "infons": {
+                "type": "methodology",
+                "identifier": "exercise_intervention",
+                "annotator": "Electrum@codiet.eu",
+                "updated_at": "2025-01-01T00:00:00Z"
+              },
+              "text": "exercise intervention",
+              "locations": [
+                {
+                  "offset": 1098,
+                  "length": 21
+                }
+              ]
+            },
+            {
+              "id": "43",
+              "infons": {
+                "type": "METABOLITE_PROTEINENZYME",
+                "identifier": "alanine",
+                "annotator": "Electrum@codiet.eu",
+                "updated_at": "2025-01-01T00:00:00Z"
+              },
+              "text": "alanine",
+              "locations": [
+                {
+                  "offset": 1200,
+                  "length": 7
+                }
+              ]
+            },
+            {
+              "id": "44",
+              "infons": {
+                "type": "FOODRELATED_METABOLITE",
+                "identifier": "leucine",
+                "annotator": "Electrum@codiet.eu",
+                "updated_at": "2025-01-01T00:00:00Z"
+              },
+              "text": "leucine",
+              "locations": [
+                {
+                  "offset": 1209,
+                  "length": 7
+                }
+              ]
+            },
+            {
+              "id": "45",
+              "infons": {
+                "type": "metabolite",
+                "identifier": "valine",
+                "annotator": "Electrum@codiet.eu",
+                "updated_at": "2025-01-01T00:00:00Z"
+              },
+              "text": "valine",
+              "locations": [
+                {
+                  "offset": 1218,
+                  "length": 6
+                }
+              ]
+            },
+            {
+              "id": "46",
+              "infons": {
+                "type": "FOODRELATED_METABOLITE",
+                "identifier": "tryptophan",
+                "annotator": "Electrum@codiet.eu",
+                "updated_at": "2025-01-01T00:00:00Z"
+              },
+              "text": "tryptophan",
+              "locations": [
+                {
+                  "offset": 1230,
+                  "length": 10
+                }
+              ]
+            },
+            {
+              "id": "47",
+              "infons": {
+                "type": "diseasePhenotype",
+                "identifier": "exercise",
+                "annotator": "Electrum@codiet.eu",
+                "updated_at": "2025-01-01T00:00:00Z"
+              },
+              "text": "exercise",
+              "locations": [
+                {
+                  "offset": 1265,
+                  "length": 8
+                }
+              ]
+            },
+            {
+              "id": "48",
+              "infons": {
+                "type": "sampleType",
+                "identifier": "plasma",
+                "annotator": "Electrum@codiet.eu",
+                "updated_at": "2025-01-01T00:00:00Z"
+              },
+              "text": "plasma",
+              "locations": [
+                {
+                  "offset": 1296,
+                  "length": 6
+                }
+              ]
+            },
+            {
+              "id": "49",
+              "infons": {
+                "type": "DISEASEPHENOTYPE_SAMPLETYPE",
+                "identifier": "skeletal_muscle",
+                "annotator": "Electrum@codiet.eu",
+                "updated_at": "2025-01-01T00:00:00Z"
+              },
+              "text": "skeletal muscle",
+              "locations": [
+                {
+                  "offset": 1307,
+                  "length": 15
+                }
+              ]
+            },
+            {
+              "id": "50",
+              "infons": {
+                "type": "dataType",
+                "identifier": "transcriptomic_analysis",
+                "annotator": "Electrum@codiet.eu",
+                "updated_at": "2025-01-01T00:00:00Z"
+              },
+              "text": "Transcriptomic analysis",
+              "locations": [
+                {
+                  "offset": 1324,
+                  "length": 23
+                }
+              ]
+            },
+            {
+              "id": "51",
+              "infons": {
+                "type": "DISEASEPHENOTYPE_SAMPLETYPE",
+                "identifier": "skeletal_muscle",
+                "annotator": "Electrum@codiet.eu",
+                "updated_at": "2025-01-01T00:00:00Z"
+              },
+              "text": "skeletal muscle",
+              "locations": [
+                {
+                  "offset": 1383,
+                  "length": 15
+                }
+              ]
+            },
+            {
+              "id": "52",
+              "infons": {
+                "type": "diseasePhenotype",
+                "identifier": "exercise",
+                "annotator": "Electrum@codiet.eu",
+                "updated_at": "2025-01-01T00:00:00Z"
+              },
+              "text": "exercise",
+              "locations": [
+                {
+                  "offset": 1467,
+                  "length": 8
+                }
+              ]
+            },
+            {
+              "id": "53",
+              "infons": {
+                "type": "dataType",
+                "identifier": "transcriptomic",
+                "annotator": "Electrum@codiet.eu",
+                "updated_at": "2025-01-01T00:00:00Z"
+              },
+              "text": "transcriptomic",
+              "locations": [
+                {
+                  "offset": 1527,
+                  "length": 14
+                }
+              ]
+            },
+            {
+              "id": "54",
+              "infons": {
+                "type": "dataType",
+                "identifier": "metabolomic",
+                "annotator": "Electrum@codiet.eu",
+                "updated_at": "2025-01-01T00:00:00Z"
+              },
+              "text": "metabolomic",
+              "locations": [
+                {
+                  "offset": 1546,
+                  "length": 11
+                }
+              ]
+            },
+            {
+              "id": "55",
+              "infons": {
+                "type": "computational",
+                "identifier": "correlations",
+                "annotator": "Electrum@codiet.eu",
+                "updated_at": "2025-01-01T00:00:00Z"
+              },
+              "text": "correlations",
+              "locations": [
+                {
+                  "offset": 1584,
+                  "length": 12
+                }
+              ]
+            },
+            {
+              "id": "56",
+              "infons": {
+                "type": "foodRelated",
+                "identifier": "energy",
+                "annotator": "Electrum@codiet.eu",
+                "updated_at": "2025-01-01T00:00:00Z"
+              },
+              "text": "energy",
+              "locations": [
+                {
+                  "offset": 1696,
+                  "length": 6
+                }
+              ]
+            },
+            {
+              "id": "57",
+              "infons": {
+                "type": "diseasePhenotype",
+                "identifier": "insulin_sensitivity",
+                "annotator": "Electrum@codiet.eu",
+                "updated_at": "2025-01-01T00:00:00Z"
+              },
+              "text": "insulin sensitivity",
+              "locations": [
+                {
+                  "offset": 1715,
+                  "length": 19
+                }
+              ]
+            },
+            {
+              "id": "58",
+              "infons": {
+                "type": "diseasePhenotype",
+                "identifier": "immune_response",
+                "annotator": "Electrum@codiet.eu",
+                "updated_at": "2025-01-01T00:00:00Z"
+              },
+              "text": "immune response",
+              "locations": [
+                {
+                  "offset": 1740,
+                  "length": 15
+                }
+              ]
+            },
+            {
+              "id": "59",
+              "infons": {
+                "type": "DISEASEPHENOTYPE_SAMPLETYPE",
+                "identifier": "skeletal_muscle",
+                "annotator": "Electrum@codiet.eu",
+                "updated_at": "2025-01-01T00:00:00Z"
+              },
+              "text": "skeletal muscle",
+              "locations": [
+                {
+                  "offset": 1763,
+                  "length": 15
+                }
+              ]
+            },
+            {
+              "id": "60",
+              "infons": {
+                "type": "methodology",
+                "identifier": "exercise_intervention",
+                "annotator": "Electrum@codiet.eu",
+                "updated_at": "2025-01-01T00:00:00Z"
+              },
+              "text": "exercise intervention",
+              "locations": [
+                {
+                  "offset": 1816,
+                  "length": 21
+                }
+              ]
+            },
+            {
+              "id": "61",
+              "infons": {
+                "type": "diseasePhenotype",
+                "identifier": "obese",
+                "annotator": "Electrum@codiet.eu",
+                "updated_at": "2025-01-01T00:00:00Z"
+              },
+              "text": "obese",
+              "locations": [
+                {
+                  "offset": 1841,
+                  "length": 5
+                }
+              ]
+            },
+            {
+              "id": "62",
+              "infons": {
+                "type": "modelOrganism",
+                "identifier": "mice",
+                "annotator": "Electrum@codiet.eu",
+                "updated_at": "2025-01-01T00:00:00Z"
+              },
+              "text": "mice",
+              "locations": [
+                {
+                  "offset": 1847,
+                  "length": 4
+                }
+              ]
+            },
+            {
+              "id": "63",
+              "infons": {
+                "type": "methodology",
+                "identifier": "exercise_intervention",
+                "annotator": "Electrum@codiet.eu",
+                "updated_at": "2025-01-01T00:00:00Z"
+              },
+              "text": "exercise intervention",
+              "locations": [
+                {
+                  "offset": 1917,
+                  "length": 21
+                }
+              ]
+            },
+            {
+              "id": "64",
+              "infons": {
+                "type": "foodRelated",
+                "identifier": "energy",
+                "annotator": "Electrum@codiet.eu",
+                "updated_at": "2025-01-01T00:00:00Z"
+              },
+              "text": "energy",
+              "locations": [
+                {
+                  "offset": 1951,
+                  "length": 6
+                }
+              ]
+            }
+          ],
+          "relations": []
+        }
+      ],
+      "relations": []
+    }
+  ]
+}

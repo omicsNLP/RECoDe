@@ -1,0 +1,13 @@
+.vscode
+__pycache__
+.ipynb_checkpoints
+.claude
+*.egg-info
+output
+data/extraction/cocos
+uv.lock
+scripts/exp/run_dummy.py
+scripts/exp/results/
+scripts/exp/test_aggregate.py
+scripts/exp/compare_graphs.py
+scripts/exp/check_target_pairs.py
