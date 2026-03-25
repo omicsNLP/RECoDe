@@ -1,6 +1,7 @@
 [![CoDiet](https://img.shields.io/badge/%F0%9F%8D%8E_a_CoDiet_study-5AA764)](https://www.codiet.eu)
 [![DOI:10.64898/2026.03.03.709244](http://img.shields.io/badge/preprint_DOI-10.64898/2026.03.03.709244-BE2536.svg)](https://doi.org/10.64898/2026.03.03.709244)
 [![DOI:10.5281/zenodo.19050553](http://img.shields.io/badge/data_DOI-10.5281/zenodo.19050553-3382C4.svg)](https://doi.org/10.5281/zenodo.19050553)
+[![Codabench](http://img.shields.io/badge/Codabench-RECoDe_benchmark-2C3F4C.svg)](https://www.codabench.org/competitions/14960/?secret_key=11e28abd-f20e-4dff-bf19-92ba4a454c10)
 
 ![alt text](https://github.com/omicsNLP/RECoDe/blob/main/RECoDe_CoDiet_Logo.png?raw=true)
 A repository for "RECoDe - Relation Extraction for Diet, Non-Communicable Disease and Biomarker Associations: A CoDiet study" https://www.biorxiv.org/content/10.64898/2026.03.03.709244v1
