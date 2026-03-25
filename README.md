@@ -167,3 +167,30 @@ python scripts/pipeline.py candidate \
    - Example output: [example_PMC7271748.tsv](./data/extraction/output/example_PMC7271748.tsv)
 
 3. Filter, run inference, and build CoCoS (see above).
+
+## 👥 Contributors
+
+
+
+<p align="center">
+  <kbd>
+    <a href="https://github.com/dongheechoi">
+      <img src="https://avatars.githubusercontent.com/u/17454500?v=4" width="90" height="90" style="border-radius:50%;">
+    </a><br>
+    👉 <strong><a href="https://github.com/dongheechoi" style="text-decoration:none; color:inherit;">Donghee</a></strong>
+  </kbd>
+  &nbsp;&nbsp;
+  <kbd>
+    <a href="https://github.com/rmraaron">
+      <img src="https://media.licdn.com/dms/image/v2/D4E03AQE6CVTlJCQqpA/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1683467212431?e=2147483647&v=beta&t=MieuV4515I98Y5m2RnD0M3Sl1cWvDpnwlkaehOl7jxs" width="90" height="90" style="border-radius:50%;">
+    </a><br>
+    👉 <strong><a href="https://github.com/rmraaron" style="text-decoration:none; color:inherit;">Yajie</a></strong>
+  </kbd>
+  &nbsp;&nbsp;
+  <kbd>
+    <a href="https://github.com/jmp111">
+      <img src="https://drive.google.com/uc?id=1kgEK2yqJG-eQnHGYDUH7mL2QeLtar2ZC" width="90" height="90" style="border-radius:50%;">
+    </a><br>
+    👉 <strong><a href="https://github.com/jmp111" style="text-decoration:none; color:inherit;">Joram</a></strong>
+  </kbd>
+</p>
