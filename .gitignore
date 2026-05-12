@@ -11,3 +11,4 @@ scripts/exp/results/
 scripts/exp/test_aggregate.py
 scripts/exp/compare_graphs.py
 scripts/exp/check_target_pairs.py
+build
