@@ -169,6 +169,22 @@ python scripts/pipeline.py candidate \
 
 3. Filter, run inference, and build CoCoS (see above).
 
+## Related Projects
+<div align="center">
+
+<div align="center">
+
+| GitHub repository | Paper | 
+|:-----------------:|:-----:|
+| [cadmus](https://github.com/biomedicalinformaticsgroup/cadmus) <a href="https://github.com/biomedicalinformaticsgroup/cadmus"><img src="https://img.shields.io/github/stars/biomedicalinformaticsgroup/cadmus.svg?logo=github&label=Stars" style="vertical-align:middle;"/></a> | n/a |
+| [Auto-CORPus](https://github.com/omicsNLP/Auto-CORPus) <a href="https://github.com/omicsNLP/Auto-CORPus"><img src="https://img.shields.io/github/stars/omicsNLP/Auto-CORPus.svg?logo=github&label=Stars" style="vertical-align:middle;"/></a> | [Paper](https://www.frontiersin.org/journals/digital-health/articles/10.3389/fdgth.2022.788124/full) |
+| [CoDietCorpus](https://github.com/omicsNLP/CoDietCorpus) <a href="https://github.com/omicsNLP/CoDietCorpus"><img src="https://img.shields.io/github/stars/omicsNLP/CoDietCorpus.svg?logo=github&label=Stars" style="vertical-align:middle;"/></a> | [Paper](https://www.biorxiv.org/content/10.1101/2025.09.04.673740v1.abstract) |
+
+</div>
+
+
+</div>
+
 ## 👥 Contributors
 
 
